@@ -1,4 +1,4 @@
-from py_iztro import Astro
+from astro import Astro
 
 
 def main():
